@@ -1,3 +1,4 @@
+require 'rails'
 require 'rails/backtrace_cleaner'
-require 'minitest/unit'
+require 'minitest/autorun'
 require 'mini_backtrace/unit'
